@@ -339,7 +339,7 @@
             "age": 1,
             "gender": "Undefined",
             "description": "Feathers is a colorful and musical parakeet.",
-            "image": "urljpg",
+            "image": "https://cityofmissionviejo.org/sites/default/files/parakeet-eagle.jpg",
             "available_for_adoption": true
         },
         {
@@ -350,7 +350,7 @@
             "age": 1,
             "gender": "Female",
             "description": "Bunny is a cute and gentle rabbit.",
-            "image": "urljpg",
+            "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52698771/1/?bust=1629265146&width=720",
             "available_for_adoption": true
         },
         {
@@ -361,7 +361,7 @@
             "age": 2,
             "gender": "Male",
             "description": "Quackers is a friendly and quacking Pekin Duck.",
-            "image": "urljpg",
+            "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50881444/3/?bust=1668175256&width=720",
             "available_for_adoption": true
         },
         {
@@ -372,7 +372,7 @@
             "age": 1,
             "gender": "Female",
             "description": "Fluffy is a small and energetic Syrian Hamster.",
-            "image": "urljpg",
+            "image": "https://www.registerguard.com/gcdn/presto/2022/07/07/NREG/86694fef-c946-48ed-8190-1268c1adf08c-Chewy_edit.jpg?width=613&height=705&fit=crop&format=pjpg&auto=webp",
             "available_for_adoption": true
         },
         {
@@ -383,7 +383,7 @@
             "age": 3,
             "gender": "Male",
             "description": "Scales is a sleek and slithering Ball Python.",
-            "image": "urljpg",
+            "image": "https://www.smallbreedrescue.org/Images/Animals/1240/01bd49bc-2aef-4bf1-bead-20d046e701f1.jpg",
             "available_for_adoption": true
         },
         {
@@ -394,7 +394,7 @@
             "age": 1,
             "gender": "Undefined",
             "description": "Hopper is a hopping and vibrant Red-Eyed Tree Frog.",
-            "image": "urljpg",
+            "image": "https://shop.wwf.ca/cdn/shop/products/6x6NewTreeFrog2.jpg?v=1664199919&width=2048",
             "available_for_adoption": true
         },
         {
@@ -405,7 +405,7 @@
             "age": 2,
             "gender": "Female",
             "description": "Cotton is a fluffy and social Abyssinian Guinea Pig.",
-            "image": "urljpg",
+            "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70023449/4/?bust=1702497130&width=720",
             "available_for_adoption": true
         },
         {
@@ -416,7 +416,7 @@
             "age": 1,
             "gender": "Male",
             "description": "Paws is a playful and curious Sable Ferret.",
-            "image": "urljpg",
+            "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/57345624/1/?bust=1663114141&width=667",
             "available_for_adoption": true
         },
         {
@@ -427,18 +427,18 @@
             "age": 1,
             "gender": "Undefined",
             "description": "Nemo is a colorful and swimming Clownfish.",
-            "image": "urljpg",
+            "image": "https://candycorals.ca/cdn/shop/products/lg_0218201_259_b69c57d9-7832-4f4d-b75d-acbf4dc2fef5.jpg?v=1618962366&width=533",
             "available_for_adoption": true
         },
         {
             "id": 40,
             "name": "Woolly",
             "species": "Sheep",
-            "breed": "Merino",
+            "breed": "undefined",
             "age": 2,
             "gender": "Male",
             "description": "Woolly is a fluffy and grazing Merino Sheep.",
-            "image": "urljpg",
+            "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/59246969/1/?bust=1671815599&width=720",
             "available_for_adoption": true
         },
         {
@@ -449,7 +449,7 @@
             "age": 1,
             "gender": "Female",
             "description": "Nibbles is a tiny and cute Dumbo Mouse.",
-            "image": "urljpg",
+            "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/69120805/2/?bust=1696261886&width=720",
             "available_for_adoption": true
         },
         {
@@ -460,7 +460,7 @@
             "age": 3,
             "gender": "Male",
             "description": "Rusty is a slow and sunbathing Red-Eared Slider Turtle.",
-            "image": "urljpg",
+            "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/39053977/2/?bust=1676659223",
             "available_for_adoption": true
         },
         {
@@ -469,9 +469,9 @@
             "species": "Horse",
             "breed": "Palomino",
             "age": 4,
-            "gender": "Female",
+            "gender": "Male",
             "description": "Sunny is a majestic and friendly Palomino Horse.",
-            "image": "urljpg",
+            "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/49037339/2/?bust=1600269080&width=1080",
             "available_for_adoption": true
         },
         {
@@ -482,7 +482,7 @@
             "age": 2,
             "gender": "Undefined",
             "description": "Polly is a talkative and colorful African Grey Parrot.",
-            "image": "urljpg",
+            "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/12651388/1/?bust=1291034096",
             "available_for_adoption": true
         },
         {
@@ -493,7 +493,7 @@
             "age": 2,
             "gender": "Female",
             "description": "Hazel is a mischievous and masked Common Raccoon",
-            "image": "urljpg",
+            "image": "https://www.clermontanimal.net/wp-content/uploads/2020/12/photo-1586466954038-0d406cb6adfe.jpeg",
             "available_for_adoption": true
         }
     ]
