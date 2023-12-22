@@ -8,7 +8,7 @@
             "age": 2,
             "gender": "Male",
             "description": "Buddy is an animated and loyal dog.",
-            "image": "urljpg",
+            "image": "https://www.zooplus.pt/magazine/wp-content/uploads/2021/06/rafeiro_1.jpeg",
             "available_for_adoption": true
         },
         {
@@ -19,7 +19,7 @@
             "age": 3,
             "gender": "Female",
             "description": "Luna is a playful and affectionate Labrador.",
-            "image": "urljpg",
+            "image": "https://www.dogsblog.com/wp-content/uploads/2023/07/Parisw.jpg",
             "available_for_adoption": true
         },
         {
@@ -30,7 +30,7 @@
             "age": 4,
             "gender": "Male",
             "description": "Rocky is a confident and intelligent German Shepherd.",
-            "image": "urljpg",
+            "image": "https://www.dogsblog.com/wp-content/uploads/2022/07/20200528_174515-768x954.jpg",
             "available_for_adoption": true
         },
         {
@@ -41,7 +41,7 @@
             "age": 1,
             "gender": "Female",
             "description": "Zoe is a friendly and energetic Golden Doodle.",
-            "image": "urljpg",
+            "image": "https://a-z-animals.com/media/2021/03/Goldendoodle-lying-on-grass-1024x535.jpg",
             "available_for_adoption": true
         },
         {
@@ -52,7 +52,7 @@
             "age": 2,
             "gender": "Male",
             "description": "Max is a playful and strong Boxer.",
-            "image": "urljpg",
+            "image": "https://gumtreeau-res.cloudinary.com/image/private/t_$_75/gumtree/aa818912-8911-40e9-8919-cc31991d0996.jpg",
             "available_for_adoption": true
         },
         {
@@ -63,7 +63,7 @@
             "age": 3,
             "gender": "Female",
             "description": "Sadie is a sweet and gentle Shih Tzu.",
-            "image": "urljpg",
+            "image": "https://furever.ca/wp-content/uploads/2019/12/puppy-mill-rescue-adoption-teddy-is-ready.jpg",
             "available_for_adoption": true
         },
         {
@@ -74,7 +74,7 @@
             "age": 2,
             "gender": "Male",
             "description": "Charlie is a smart and charming Poodle.",
-            "image": "urljpg",
+            "image": "https://pet-uploads.adoptapet.com/d/0/0/256990269.jpg",
             "available_for_adoption": true
         },
         {
@@ -85,7 +85,7 @@
             "age": 4,
             "gender": "Female",
             "description": "Molly is a friendly and curious Beagle.",
-            "image": "urljpg",
+            "image": "https://www.dailybreeze.com/wp-content/uploads/migration/2017/201703/NEWS_170309536_AR_0_FGZFUYDRBWEA.jpg?w=535",
             "available_for_adoption": true
         },
         {
@@ -96,7 +96,7 @@
             "age": 2,
             "gender": "Male",
             "description": "Duke is a strong and protective Rottweiler.",
-            "image": "urljpg",
+            "image": "https://images.ctfassets.net/scac5p2hkp4h/2EWZNGnZXgkWD9LhFiiJX8/f9dc5673fa80b46bb07f5b8b203d94fc/Rottweiler-FF.jpg",
             "available_for_adoption": true
         },
         {
@@ -107,7 +107,7 @@
             "age": 3,
             "gender": "Female",
             "description": "Sophie is a gentle and elegant Spaniel.",
-            "image": "urljpg",
+            "image": "https://www.petfinder.com/sites/default/files/images/content/cavalier-king-charles-spaniel-card-large.jpg",
             "available_for_adoption": true
         },
         {
@@ -118,40 +118,40 @@
             "age": 2,
             "gender": "Male",
             "description": "Oscar is a playful and clever Dachshund.",
-            "image": "urljpg",
+            "image": "https://www.ukpets.com/oc-content/uploads/breeds/0/6420.jpg",
             "available_for_adoption": true
         },
         {
             "id": 12,
             "name": "Coco",
             "species": "Dog",
-            "breed": "French Bulldog",
+            "breed": "Mixed Breed",
             "age": 1,
             "gender": "Female",
-            "description": "Coco is a cute and affectionate French Bulldog.",
-            "image": "urljpg",
+            "description": "Coco is a cute, affectionate and great with children",
+            "image": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/5/89/589c6537-eeb8-50e4-9e39-aee5bd8c4691/608b10696432f.image.jpg?resize=750%2C500",
             "available_for_adoption": true
         },
         {
             "id": 13,
             "name": "Teddy",
             "species": "Dog",
-            "breed": "Corgi",
+            "breed": "Mixed Breed",
             "age": 2,
             "gender": "Male",
-            "description": "Teddy is a friendly and outgoing Corgi.",
-            "image": "urljpg",
+            "description": "Teddy is a friendly and outgoing.",
+            "image": "https://www.dogsblog.com/wp-content/uploads/2023/07/Baileyr-e1690863290130.jpeg",
             "available_for_adoption": true
         },
         {
             "id": 14,
             "name": "Bella",
             "species": "Dog",
-            "breed": "Australian Shepherd",
+            "breed": "Mixed Breed",
             "age": 3,
             "gender": "Female",
-            "description": "Bella is an intelligent and loyal Australian Shepherd.",
-            "image": "urljpg",
+            "description": "Bella is an intelligent and loyal female dog.",
+            "image": "https://www.theledger.com/gcdn/presto/2022/04/15/NLED/e3916e52-8b09-4b42-a00f-0467790ada0e-Django_SFL-A-29533-3.png?width=660&height=960&fit=crop&format=pjpg&auto=webp",
             "available_for_adoption": true
         },
         {
@@ -162,7 +162,7 @@
             "age": 4,
             "gender": "Male",
             "description": "Maximus is a gentle giant Great Dane with a heart of gold.",
-            "image": "urljpg",
+            "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56684278/3/?bust=1663327786",
             "available_for_adoption": true
         },
 
@@ -171,131 +171,131 @@
             "name": "Whiskers",
             "species": "Cat",
             "breed": "Mixed Breed",
-            "age": 1,
+            "age": 8,
             "gender": "Male",
             "description": "Whiskers is a curious and friendly cat.",
-            "image": "urljpg",
+            "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65797465/1/?bust=1691513180&width=1080",
             "available_for_adoption": true
         },
         {
             "id": 17,
             "name": "Misty",
             "species": "Cat",
-            "breed": "Persian",
+            "breed": "Mixed Breed",
             "age": 2,
             "gender": "Female",
             "description": "Misty is a calm and elegant Persian cat.",
-            "image": "urljpg",
+            "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/63508342/1/?bust=1682615735&width=1080",
             "available_for_adoption": true
         },
         {
             "id": 18,
             "name": "Shadow",
             "species": "Cat",
-            "breed": "Siamese",
+            "breed": "Mixed Breed",
             "age": 2,
             "gender": "Male",
-            "description": "Shadow is a vocal and affectionate Siamese cat.",
-            "image": "urljpg",
+            "description": "Shadow is a vocal and affectionate cat.",
+            "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70088942/1/?bust=1703003753&width=1080",
             "available_for_adoption": true
         },
         {
             "id": 19,
-            "name": "Cleo",
+            "name": "Tabi",
             "species": "Cat",
-            "breed": "Bengal",
+            "breed": "Mixed Breed",
             "age": 1,
             "gender": "Female",
-            "description": "Cleo is a playful and adventurous Bengal cat.",
-            "image": "urljpg",
+            "description": "Tabi is a playful and adventurous cat.",
+            "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/69401062/1/?bust=1698004412&width=1080",
             "available_for_adoption": true
         },
         {
             "id": 20,
             "name": "Oliver",
             "species": "Cat",
-            "breed": "Maine Coon",
-            "age": 3,
+            "breed": "Mixed Breed",
+            "age": 1,
             "gender": "Male",
-            "description": "Oliver is a gentle giant with a luxurious Maine Coon coat.",
-            "image": "urljpg",
+            "description": "Oliver is a gentle giant with a luxurious coat.",
+            "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/69428349/3/?bust=1702908839&width=1080",
             "available_for_adoption": true
         },
         {
             "id": 21,
             "name": "Lily",
             "species": "Cat",
-            "breed": "Scottish Fold",
+            "breed": "Mixed Breed",
             "age": 1,
             "gender": "Female",
-            "description": "Lily is a cute and sweet Scottish Fold cat.",
-            "image": "urljpg",
+            "description": "Lily is a cute and sweet cat.",
+            "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70075905/2/?bust=1703193842&width=1080",
             "available_for_adoption": true
         },
         {
             "id": 22,
             "name": "Milo",
             "species": "Cat",
-            "breed": "Ragdoll",
+            "breed": "Mixed Breed",
             "age": 2,
             "gender": "Male",
-            "description": "Milo is a laid-back and affectionate Ragdoll cat.",
-            "image": "urljpg",
+            "description": "Milo is a laid-back and affectionate cat.",
+            "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56193519/1/?bust=1657027239&width=1080",
             "available_for_adoption": true
         },
         {
             "id": 23,
             "name": "Chloe",
             "species": "Cat",
-            "breed": "Sphynx",
+            "breed": "Mixed Breed",
             "age": 1,
             "gender": "Female",
-            "description": "Chloe is a playful and hairless Sphynx cat.",
-            "image": "urljpg",
+            "description": "Chloe is a playful and hairless cat.",
+            "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/69421092/2/?bust=1698158482&width=1080",
             "available_for_adoption": true
         },
         {
             "id": 24,
             "name": "Simba",
             "species": "Cat",
-            "breed": "British Shorthair",
+            "breed": "Mixed Breed",
             "age": 2,
             "gender": "Male",
-            "description": "Simba is a regal and charming British Shorthair cat.",
-            "image": "urljpg",
+            "description": "Simba is a regal and charming orange cat.",
+            "image": "https://cdn.rescuegroups.org/1495/pictures/animals/18366/18366111/89427365.jpg?width=500",
             "available_for_adoption": true
         },
         {
             "id": 25,
             "name": "Mia",
             "species": "Cat",
-            "breed": "Tabby",
+            "breed": "Mixed Breed",
             "age": 3,
             "gender": "Female",
-            "description": "Mia is a friendly and striped Tabby cat.",
-            "image": "urljpg",
+            "description": "Mia is a friendly and striped Mixed Breed cat.",
+            "image": "https://cats.com/wp-content/uploads/2022/01/Calico-Cats.jpg",
             "available_for_adoption": true
         },
         {
             "id": 26,
             "name": "Leo",
             "species": "Cat",
-            "breed": "Norwegian Forest",
+            "breed": "Mixed Breed",
             "age": 2,
             "gender": "Male",
-            "description": "Leo is a fluffy and majestic Norwegian Forest cat.",
-            "image": "urljpg",
+            "description": "Leo is a fluffy and majestict cat.",
+            "image": "https://rspca-brighton.org.uk/wp-content/uploads/2023/11/IMG_5903-300x400.jpg",
             "available_for_adoption": true
         },
         {
             "id": 27,
             "name": "Nala",
             "species": "Cat",
-            "breed": "Calico",
+            "breed": "Mixed Breed",
             "age": 1,
             "gender": "Female",
-            "description": "Nala is a playful and multicolored Calico cat.",
-            "image": "urljpg",
+            "description": "Nala is a playful and multicolored cat.",
+            "image": "https://i0.wp.com/www.delcotimes.com/wp-content/uploads/2023/08/Ashley-DT-e1690940619506.jpg?fit=620%2C9999px&ssl=1",
             "available_for_adoption": true
         },
         {
@@ -306,7 +306,7 @@
             "age": 2,
             "gender": "Male",
             "description": "Oreo is a charming and black-and-white Domestic Shorthair cat.",
-            "image": "urljpg",
+            "image": "https://www.thestar.co.uk/jpim-static/image/2023/11/08/15/23/Screenshot%202023-11-08%20at%2015.44.14.png?crop=3:2&width=800",
             "available_for_adoption": true
         },
         {
@@ -314,10 +314,10 @@
             "name": "Cupcake",
             "species": "Cat",
             "breed": "Persian Mix",
-            "age": 1,
-            "gender": "Female",
+            "age": 6,
+            "gender": "Male",
             "description": "Cupcake is a sweet and fluffy Persian Mix cat.",
-            "image": "urljpg",
+            "image": "https://images.craigslist.org/00l0l_8gYjDHVGM5M_0pe0pN_600x450.jpg",
             "available_for_adoption": true
         },
         {
@@ -325,10 +325,10 @@
             "name": "Smokey",
             "species": "Cat",
             "breed": "Russian Blue",
-            "age": 3,
+            "age": "8 months",
             "gender": "Male",
             "description": "Smokey is a sleek and mysterious Russian Blue cat.",
-            "image": "urljpg",
+            "image": "https://prd-use2-shelter-app.s3.amazonaws.com/pets/08-27-2023/hhmsqzgmtvzaringwsnbgjmcawyakm.jpg",
             "available_for_adoption": true
         },
         {
