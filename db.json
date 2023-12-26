@@ -37,7 +37,7 @@
             "image": "https://www.dogsblog.com/wp-content/uploads/2022/07/20200528_174515-768x954.jpg",
             "available_for_adoption": true,
             "city": "Faro", 
-            "health": "Spayed / neutered.",
+            "health": "Vaccinations up to date, spayed / neutered",
         },
         {
             "id": 4,
@@ -89,7 +89,7 @@
             "image": "https://pet-uploads.adoptapet.com/d/0/0/256990269.jpg",
             "available_for_adoption": true,
             "city": "Barreiro", 
-            "health": "Spayed / neutered.",
+            "health": "Vaccinations up to date, spayed / neutered",
         },
         {
             "id": 8,
@@ -128,7 +128,7 @@
             "image": "https://www.petfinder.com/sites/default/files/images/content/cavalier-king-charles-spaniel-card-large.jpg",
             "available_for_adoption": true,
             "city": "Figueira da Foz", 
-            "health": "Spayed / neutered.",
+            "health": "Vaccinations up to date, spayed / neutered",
         },
         {
             "id": 11,
@@ -180,7 +180,7 @@
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/69040469/1/?bust=1699372361&width=1080",
             "available_for_adoption": true,
             "city": "Braga", 
-            "health": "Spayed / neutered.",
+            "health": "Vaccinations up to date, spayed / neutered",
         },
         {
             "id": 15,
@@ -220,7 +220,7 @@
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/63508342/1/?bust=1682615735&width=1080",
             "available_for_adoption": true,
             "city": "Alcácer do Sal", 
-            "health": "Spayed / neutered.",
+            "health": "Vaccinations up to date, spayed / neutered",
         },
         {
             "id": 18,
@@ -272,7 +272,7 @@
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70075905/2/?bust=1703193842&width=1080",
             "available_for_adoption": true,
             "city": "Beja", 
-            "health": "Vaccinations up to date.",
+            "health": "Vaccinations up to date, spayed / neutered",
         },
         {
             "id": 22,
@@ -324,7 +324,7 @@
             "image": "https://cats.com/wp-content/uploads/2022/01/Calico-Cats.jpg",
             "available_for_adoption": true,
             "city": "Braga", 
-            "health": "Vaccinations up to date.",
+            "health": "Vaccinations up to date, spayed / neutered",
         },
         {
             "id": 26,
@@ -376,7 +376,7 @@
             "image": "https://images.craigslist.org/00l0l_8gYjDHVGM5M_0pe0pN_600x450.jpg",
             "available_for_adoption": true,
             "city": "Porto", 
-            "health": "Spayed / neutered.",
+            "health": "Vaccinations up to date, spayed / neutered",
         },
         {
             "id": 30,
@@ -389,7 +389,7 @@
             "image": "https://prd-use2-shelter-app.s3.amazonaws.com/pets/08-27-2023/hhmsqzgmtvzaringwsnbgjmcawyakm.jpg",
             "available_for_adoption": true,
             "city": "Portalegre", 
-            "health": "Vaccinations up to date.",
+            "health": "Vaccinations up to date, spayed / neutered",
         },
         {
             "id": 31,
@@ -493,7 +493,7 @@
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/57345624/1/?bust=1663114141&width=667",
             "available_for_adoption": true,
             "city": "Aveiro", 
-            "health": "Vaccinations up to date.",
+            "health": "Vaccinations up to date, spayed / neutered",
         },
         {
             "id": 39,
@@ -506,7 +506,7 @@
             "image": "https://candycorals.ca/cdn/shop/products/lg_0218201_259_b69c57d9-7832-4f4d-b75d-acbf4dc2fef5.jpg?v=1618962366&width=533",
             "available_for_adoption": true,
             "city": "Olhão", 
-            "health": "Vaccinations up to date.",
+            "health": "Vaccinations up to date, spayed / neutered",
         },
         {
             "id": 40,
@@ -532,7 +532,7 @@
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/69120805/2/?bust=1696261886&width=720",
             "available_for_adoption": true,
             "city": "Lagos", 
-            "health": "Vaccinations up to date.",
+            "health": "Vaccinations up to date, spayed / neutered",
         },
         {
             "id": 42,
@@ -571,7 +571,7 @@
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/12651388/1/?bust=1291034096",
             "available_for_adoption": true,
             "city": "Porto", 
-            "health": "Spayed / neutered.",
+            "health": "Vaccinations up to date, spayed / neutered",
         }, 
         {
             "id": 45,
