@@ -10,8 +10,8 @@
             "description": "Buddy is an animated and loyal dog.",
             "image": "https://www.zooplus.pt/magazine/wp-content/uploads/2021/06/rafeiro_1.jpeg",
             "available_for_adoption": true,
-            "city": "Coimbra", 
-            "health": ,
+            "city": "Coimbra",
+            "health": "Vaccinations up to date, spayed / neutered"
         },
         {
             "id": 2,
@@ -23,8 +23,8 @@
             "description": "Luna is a playful and affectionate Labrador.",
             "image": "https://www.dogsblog.com/wp-content/uploads/2023/07/Parisw.jpg",
             "available_for_adoption": true,
-            "city": "Setúbal", 
-            "health": ,
+            "city": "Setúbal",
+            "health": "Vaccinations up to date."
         },
         {
             "id": 3,
@@ -36,8 +36,8 @@
             "description": "Rocky is a confident and intelligent German Shepherd.",
             "image": "https://www.dogsblog.com/wp-content/uploads/2022/07/20200528_174515-768x954.jpg",
             "available_for_adoption": true,
-            "city": "Faro", 
-            "health": ,
+            "city": "Faro",
+            "health": "Vaccinations up to date, spayed / neutered"
         },
         {
             "id": 4,
@@ -49,8 +49,8 @@
             "description": "Zoe is a friendly and energetic Golden Doodle.",
             "image": "https://a-z-animals.com/media/2021/03/Goldendoodle-lying-on-grass-1024x535.jpg",
             "available_for_adoption": true,
-            "city": "Porto", 
-            "health": ,
+            "city": "Porto",
+            "health": "Spayed / neutered."
         },
         {
             "id": 5,
@@ -62,8 +62,8 @@
             "description": "Max is a playful and strong Boxer.",
             "image": "https://gumtreeau-res.cloudinary.com/image/private/t_$_75/gumtree/aa818912-8911-40e9-8919-cc31991d0996.jpg",
             "available_for_adoption": true,
-            "city": "Castelo Branco", 
-            "health": ,
+            "city": "Castelo Branco",
+            "health": "Vaccinations up to date."
         },
         {
             "id": 6,
@@ -75,8 +75,8 @@
             "description": "Sadie is a sweet and gentle Shih Tzu.",
             "image": "https://furever.ca/wp-content/uploads/2019/12/puppy-mill-rescue-adoption-teddy-is-ready.jpg",
             "available_for_adoption": true,
-            "city": "Lisboa", 
-            "health": ,
+            "city": "Lisboa",
+            "health": "Vaccinations up to date."
         },
         {
             "id": 7,
@@ -88,8 +88,8 @@
             "description": "Charlie is a smart and charming Poodle.",
             "image": "https://pet-uploads.adoptapet.com/d/0/0/256990269.jpg",
             "available_for_adoption": true,
-            "city": "Barreiro", 
-            "health": ,
+            "city": "Barreiro",
+            "health": "Vaccinations up to date, spayed / neutered"
         },
         {
             "id": 8,
@@ -101,8 +101,8 @@
             "description": "Molly is a friendly and curious Beagle.",
             "image": "https://www.dailybreeze.com/wp-content/uploads/migration/2017/201703/NEWS_170309536_AR_0_FGZFUYDRBWEA.jpg?w=535",
             "available_for_adoption": true,
-            "city": "Évora", 
-            "health": ,
+            "city": "Évora",
+            "health": "Vaccinations up to date."
         },
         {
             "id": 9,
@@ -114,8 +114,8 @@
             "description": "Duke is a strong and protective Rottweiler.",
             "image": "https://images.ctfassets.net/scac5p2hkp4h/2EWZNGnZXgkWD9LhFiiJX8/f9dc5673fa80b46bb07f5b8b203d94fc/Rottweiler-FF.jpg",
             "available_for_adoption": true,
-            "city": "Ericeira", 
-            "health": ,
+            "city": "Ericeira",
+            "health": "Vaccinations up to date."
         },
         {
             "id": 10,
@@ -127,8 +127,8 @@
             "description": "Sophie is a gentle and elegant Spaniel.",
             "image": "https://www.petfinder.com/sites/default/files/images/content/cavalier-king-charles-spaniel-card-large.jpg",
             "available_for_adoption": true,
-            "city": "Figueira da Foz", 
-            "health": ,
+            "city": "Figueira da Foz",
+            "health": "Vaccinations up to date, spayed / neutered"
         },
         {
             "id": 11,
@@ -140,8 +140,8 @@
             "description": "Oscar is a playful and clever Dachshund.",
             "image": "https://www.ukpets.com/oc-content/uploads/breeds/0/6420.jpg",
             "available_for_adoption": true,
-            "city": "Setúbal", 
-            "health": ,
+            "city": "Setúbal",
+            "health": "Spayed / neutered."
         },
         {
             "id": 12,
@@ -153,8 +153,8 @@
             "description": "Coco is a cute, affectionate and great with children",
             "image": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/5/89/589c6537-eeb8-50e4-9e39-aee5bd8c4691/608b10696432f.image.jpg?resize=750%2C500",
             "available_for_adoption": true,
-            "city": "Vila Real de Santo António", 
-            "health": ,
+            "city": "Vila Real de Santo António",
+            "health": "Spayed / neutered."
         },
         {
             "id": 13,
@@ -166,8 +166,8 @@
             "description": "Teddy is a friendly and outgoing.",
             "image": "https://www.dogsblog.com/wp-content/uploads/2023/07/Baileyr-e1690863290130.jpeg",
             "available_for_adoption": true,
-            "city": "Coimbra", 
-            "health": ,
+            "city": "Coimbra",
+            "health": "Spayed / neutered."
         },
         {
             "id": 14,
@@ -179,8 +179,8 @@
             "description": "Bella is an intelligent and loyal female dog.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/69040469/1/?bust=1699372361&width=1080",
             "available_for_adoption": true,
-            "city": "Braga", 
-            "health": ,
+            "city": "Braga",
+            "health": "Vaccinations up to date, spayed / neutered"
         },
         {
             "id": 15,
@@ -192,10 +192,9 @@
             "description": "Maximus is a gentle giant Great Dane with a heart of gold.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56684278/3/?bust=1663327786",
             "available_for_adoption": true,
-            "city": "Beja", 
-            "health": ,
+            "city": "Beja",
+            "health": "Vaccinations up to date."
         },
-
         {
             "id": 16,
             "name": "Whiskers",
@@ -206,8 +205,8 @@
             "description": "Whiskers is a curious and friendly cat.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65797465/1/?bust=1691513180&width=1080",
             "available_for_adoption": true,
-            "city": "Lisboa", 
-            "health": ,
+            "city": "Lisboa",
+            "health": "Vaccinations up to date."
         },
         {
             "id": 17,
@@ -219,8 +218,8 @@
             "description": "Misty is a calm and elegant Persian cat.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/63508342/1/?bust=1682615735&width=1080",
             "available_for_adoption": true,
-            "city": "Alcácer do Sal", 
-            "health": ,
+            "city": "Alcácer do Sal",
+            "health": "Vaccinations up to date, spayed / neutered"
         },
         {
             "id": 18,
@@ -232,8 +231,8 @@
             "description": "Shadow is a vocal and affectionate cat.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70088942/1/?bust=1703003753&width=1080",
             "available_for_adoption": true,
-            "city": "Viseu", 
-            "health": ,
+            "city": "Viseu",
+            "health": "Vaccinations up to date."
         },
         {
             "id": 19,
@@ -245,8 +244,8 @@
             "description": "Tabi is a playful and adventurous cat.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/69401062/1/?bust=1698004412&width=1080",
             "available_for_adoption": true,
-            "city": "Vila Real", 
-            "health": ,
+            "city": "Vila Real",
+            "health": "Vaccinations up to date."
         },
         {
             "id": 20,
@@ -258,8 +257,8 @@
             "description": "Oliver is a gentle giant with a luxurious coat.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/69428349/3/?bust=1702908839&width=1080",
             "available_for_adoption": true,
-            "city": "Castelo Branco", 
-            "health": ,
+            "city": "Castelo Branco",
+            "health": "Spayed / neutered."
         },
         {
             "id": 21,
@@ -271,8 +270,8 @@
             "description": "Lily is a cute and sweet cat.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70075905/2/?bust=1703193842&width=1080",
             "available_for_adoption": true,
-            "city": "Beja", 
-            "health": ,
+            "city": "Beja",
+            "health": "Vaccinations up to date, spayed / neutered"
         },
         {
             "id": 22,
@@ -284,8 +283,8 @@
             "description": "Milo is a laid-back and affectionate cat.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56193519/1/?bust=1657027239&width=1080",
             "available_for_adoption": true,
-            "city": "Estremoz", 
-            "health": ,
+            "city": "Estremoz",
+            "health": "Spayed / neutered."
         },
         {
             "id": 23,
@@ -297,8 +296,8 @@
             "description": "Chloe is a playful and hairless cat.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/69421092/2/?bust=1698158482&width=1080",
             "available_for_adoption": true,
-            "city": "Porto", 
-            "health": ,
+            "city": "Porto",
+            "health": "Vaccinations up to date."
         },
         {
             "id": 24,
@@ -310,8 +309,8 @@
             "description": "Simba is a regal and charming orange cat.",
             "image": "https://cdn.rescuegroups.org/1495/pictures/animals/18366/18366111/89427365.jpg?width=500",
             "available_for_adoption": true,
-            "city": "Vila Real de Santo António", 
-            "health": ,
+            "city": "Vila Real de Santo António",
+            "health": "Spayed / neutered."
         },
         {
             "id": 25,
@@ -323,8 +322,8 @@
             "description": "Mia is a friendly and striped Mixed Breed cat.",
             "image": "https://cats.com/wp-content/uploads/2022/01/Calico-Cats.jpg",
             "available_for_adoption": true,
-            "city": "Braga", 
-            "health": ,
+            "city": "Braga",
+            "health": "Vaccinations up to date, spayed / neutered"
         },
         {
             "id": 26,
@@ -336,8 +335,8 @@
             "description": "Leo is a fluffy and majestict cat.",
             "image": "https://rspca-brighton.org.uk/wp-content/uploads/2023/11/IMG_5903-300x400.jpg",
             "available_for_adoption": true,
-            "city": "Lisboa", 
-            "health": ,
+            "city": "Lisboa",
+            "health": "Spayed / neutered."
         },
         {
             "id": 27,
@@ -349,8 +348,8 @@
             "description": "Nala is a playful and multicolored cat.",
             "image": "https://i0.wp.com/www.delcotimes.com/wp-content/uploads/2023/08/Ashley-DT-e1690940619506.jpg?fit=620%2C9999px&ssl=1",
             "available_for_adoption": true,
-            "city": "Sines", 
-            "health": ,
+            "city": "Sines",
+            "health": "Vaccinations up to date."
         },
         {
             "id": 28,
@@ -362,8 +361,8 @@
             "description": "Oreo is a charming and black-and-white Domestic Shorthair cat.",
             "image": "https://www.thestar.co.uk/jpim-static/image/2023/11/08/15/23/Screenshot%202023-11-08%20at%2015.44.14.png?crop=3:2&width=800",
             "available_for_adoption": true,
-            "city": "Lisboa", 
-            "health": ,
+            "city": "Lisboa",
+            "health": "Vaccinations up to date."
         },
         {
             "id": 29,
@@ -375,8 +374,8 @@
             "description": "Cupcake is a sweet and fluffy Persian Mix cat.",
             "image": "https://images.craigslist.org/00l0l_8gYjDHVGM5M_0pe0pN_600x450.jpg",
             "available_for_adoption": true,
-            "city": "Porto", 
-            "health": ,
+            "city": "Porto",
+            "health": "Vaccinations up to date, spayed / neutered"
         },
         {
             "id": 30,
@@ -388,8 +387,8 @@
             "description": "Smokey is a sleek and mysterious Russian Blue cat.",
             "image": "https://prd-use2-shelter-app.s3.amazonaws.com/pets/08-27-2023/hhmsqzgmtvzaringwsnbgjmcawyakm.jpg",
             "available_for_adoption": true,
-            "city": "Portalegre", 
-            "health": ,
+            "city": "Portalegre",
+            "health": "Vaccinations up to date, spayed / neutered"
         },
         {
             "id": 31,
@@ -401,8 +400,8 @@
             "description": "Feathers is a colorful and musical parakeet.",
             "image": "https://cityofmissionviejo.org/sites/default/files/parakeet-eagle.jpg",
             "available_for_adoption": true,
-            "city": "Setúbal", 
-            "health": ,
+            "city": "Setúbal",
+            "health": "Vaccinations up to date."
         },
         {
             "id": 32,
@@ -414,8 +413,8 @@
             "description": "Bunny is a cute and gentle rabbit.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52698771/1/?bust=1629265146&width=720",
             "available_for_adoption": true,
-            "city": "Lisboa", 
-            "health": ,
+            "city": "Lisboa",
+            "health": "Spayed / neutered."
         },
         {
             "id": 33,
@@ -427,8 +426,8 @@
             "description": "Quackers is a friendly and quacking Pekin Duck.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50881444/3/?bust=1668175256&width=720",
             "available_for_adoption": true,
-            "city": "Caldas da Rainha", 
-            "health": ,
+            "city": "Caldas da Rainha",
+            "health": "Spayed / neutered."
         },
         {
             "id": 34,
@@ -440,8 +439,8 @@
             "description": "Fluffy is a small and energetic Syrian Hamster.",
             "image": "https://www.registerguard.com/gcdn/presto/2022/07/07/NREG/86694fef-c946-48ed-8190-1268c1adf08c-Chewy_edit.jpg?width=613&height=705&fit=crop&format=pjpg&auto=webp",
             "available_for_adoption": true,
-            "city": "Guarda", 
-            "health": ,
+            "city": "Guarda",
+            "health": "Spayed / neutered."
         },
         {
             "id": 35,
@@ -453,8 +452,8 @@
             "description": "Scales is a sleek and slithering Ball Python.",
             "image": "https://www.smallbreedrescue.org/Images/Animals/1240/01bd49bc-2aef-4bf1-bead-20d046e701f1.jpg",
             "available_for_adoption": true,
-            "city": "Braga", 
-            "health": ,
+            "city": "Braga",
+            "health": "Vaccinations up to date."
         },
         {
             "id": 36,
@@ -466,8 +465,8 @@
             "description": "Hopper is a hopping and vibrant Red-Eyed Tree Frog.",
             "image": "https://shop.wwf.ca/cdn/shop/products/6x6NewTreeFrog2.jpg?v=1664199919&width=2048",
             "available_for_adoption": true,
-            "city": "Porto", 
-            "health": ,
+            "city": "Porto",
+            "health": "Vaccinations up to date."
         },
         {
             "id": 37,
@@ -479,8 +478,8 @@
             "description": "Cotton is a fluffy and social Abyssinian Guinea Pig.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70023449/4/?bust=1702497130&width=720",
             "available_for_adoption": true,
-            "city": "Beja", 
-            "health": ,
+            "city": "Beja",
+            "health": "Vaccinations up to date."
         },
         {
             "id": 38,
@@ -492,8 +491,8 @@
             "description": "Paws is a playful and curious Sable Ferret.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/57345624/1/?bust=1663114141&width=667",
             "available_for_adoption": true,
-            "city": "Aveiro", 
-            "health": ,
+            "city": "Aveiro",
+            "health": "Vaccinations up to date, spayed / neutered"
         },
         {
             "id": 39,
@@ -505,8 +504,8 @@
             "description": "Nemo is a colorful and swimming Clownfish.",
             "image": "https://candycorals.ca/cdn/shop/products/lg_0218201_259_b69c57d9-7832-4f4d-b75d-acbf4dc2fef5.jpg?v=1618962366&width=533",
             "available_for_adoption": true,
-            "city": "Olhão", 
-            "health": ,
+            "city": "Olhão",
+            "health": "Vaccinations up to date, spayed / neutered"
         },
         {
             "id": 40,
@@ -518,8 +517,8 @@
             "description": "Woolly is a fluffy and grazing Merino Sheep.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/59246969/1/?bust=1671815599&width=720",
             "available_for_adoption": true,
-            "city": "Tavira", 
-            "health": ,
+            "city": "Tavira",
+            "health": "Vaccinations up to date."
         },
         {
             "id": 41,
@@ -531,8 +530,8 @@
             "description": "Nibbles is a tiny and cute Dumbo Mouse.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/69120805/2/?bust=1696261886&width=720",
             "available_for_adoption": true,
-            "city": "Lagos", 
-            "health": ,
+            "city": "Lagos",
+            "health": "Vaccinations up to date, spayed / neutered"
         },
         {
             "id": 42,
@@ -544,8 +543,8 @@
             "description": "Rusty is a slow and sunbathing Red-Eared Slider Turtle.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/39053977/2/?bust=1676659223",
             "available_for_adoption": true,
-            "city": "Beja", 
-            "health": ,
+            "city": "Beja",
+            "health": "Vaccinations up to date."
         },
         {
             "id": 43,
@@ -557,8 +556,8 @@
             "description": "Sunny is a majestic and friendly Palomino Horse.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/49037339/2/?bust=1600269080&width=1080",
             "available_for_adoption": true,
-            "city": "Estremoz", 
-            "health": ,
+            "city": "Estremoz",
+            "health": "Vaccinations up to date."
         },
         {
             "id": 44,
@@ -570,8 +569,8 @@
             "description": "Polly is a talkative and colorful African Grey Parrot.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/12651388/1/?bust=1291034096",
             "available_for_adoption": true,
-            "city": "Porto", 
-            "health": ,
+            "city": "Porto",
+            "health": "Vaccinations up to date, spayed / neutered"
         },
         {
             "id": 45,
@@ -583,8 +582,8 @@
             "description": "Hazel is a mischievous and masked Common Raccoon",
             "image": "https://www.clermontanimal.net/wp-content/uploads/2020/12/photo-1586466954038-0d406cb6adfe.jpeg",
             "available_for_adoption": true,
-            "city": "Coimbra", 
-            "health": ,
+            "city": "Coimbra",
+            "health": "Spayed / neutered."
         }
     ]
 }

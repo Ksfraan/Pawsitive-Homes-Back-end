@@ -11,7 +11,7 @@
             "image": "https://www.zooplus.pt/magazine/wp-content/uploads/2021/06/rafeiro_1.jpeg",
             "available_for_adoption": true,
             "city": "Coimbra",
-            "health": "Spayed / neutered."
+            "health": "Vaccinations up to date, spayed / neutered"
         },
         {
             "id": 2,
@@ -195,7 +195,6 @@
             "city": "Beja",
             "health": "Vaccinations up to date."
         },
-
         {
             "id": 16,
             "name": "Whiskers",
