@@ -94,7 +94,7 @@
             "description": "Charlie is a smart and charming Poodle.",
             "image": "https://pet-uploads.adoptapet.com/d/0/0/256990269.jpg",
             "available_for_adoption": true,
-            "city": "Barreiro",
+            "city": "Lisboa",
             "health": "Vaccinations up to date, spayed / neutered",
             "Good in a home with": "Children"
         },
@@ -136,7 +136,7 @@
             "description": "Sophie is a gentle and elegant Spaniel.",
             "image": "https://www.petfinder.com/sites/default/files/images/content/cavalier-king-charles-spaniel-card-large.jpg",
             "available_for_adoption": true,
-            "city": "Figueira da Foz",
+            "city": "Estremoz",
             "health": "Vaccinations up to date, spayed / neutered",
             "Good in a home with": "No children"
         },
@@ -234,7 +234,7 @@
             "description": "Misty is a calm and elegant Persian cat.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/63508342/1/?bust=1682615735&width=1080",
             "available_for_adoption": true,
-            "city": "Alcácer do Sal",
+            "city": "Setúbal",
             "health": "Vaccinations up to date, spayed / neutered",
             "Good in a home with": "No children"
         },
@@ -248,7 +248,7 @@
             "description": "Shadow is a vocal and affectionate cat.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70088942/1/?bust=1703003753&width=1080",
             "available_for_adoption": true,
-            "city": "Viseu",
+            "city": "Braga",
             "health": "Vaccinations up to date",
             "Good in a home with": "Other cats"
         },
@@ -262,7 +262,7 @@
             "description": "Tabi is a playful and adventurous cat.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/69401062/1/?bust=1698004412&width=1080",
             "available_for_adoption": true,
-            "city": "Vila Real",
+            "city": "Braga",
             "health": "Vaccinations up to date",
             "Good in a home with": "Other cats"
         },
@@ -374,7 +374,7 @@
             "description": "Nala is a playful and multicolored cat.",
             "image": "https://i0.wp.com/www.delcotimes.com/wp-content/uploads/2023/08/Ashley-DT-e1690940619506.jpg?fit=620%2C9999px&ssl=1",
             "available_for_adoption": true,
-            "city": "Sines",
+            "city": "Setúbal",
             "health": "Vaccinations up to date",
             "Good in a home with": "Other cats, children"
         },
@@ -458,7 +458,7 @@
             "description": "Quackers is a friendly and quacking Pekin Duck.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50881444/3/?bust=1668175256&width=720",
             "available_for_adoption": true,
-            "city": "Caldas da Rainha",
+            "city": "Ericeira",
             "health": "N/A",
             "Good in a home with": "No children"
         },
@@ -472,7 +472,7 @@
             "description": "Fluffy is a small and energetic Syrian Hamster.",
             "image": "https://www.registerguard.com/gcdn/presto/2022/07/07/NREG/86694fef-c946-48ed-8190-1268c1adf08c-Chewy_edit.jpg?width=613&height=705&fit=crop&format=pjpg&auto=webp",
             "available_for_adoption": true,
-            "city": "Guarda",
+            "city": "Castelo Branco",
             "health": "N/A",
             "Good in a home with": "Other animals, children"
         },
@@ -528,7 +528,7 @@
             "description": "Paws is a playful and curious Sable Ferret.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/57345624/1/?bust=1663114141&width=667",
             "available_for_adoption": true,
-            "city": "Aveiro",
+            "city": "Coimbra",
             "health": "N/A",
             "Good in a home with": "Other animals, children"
         },
@@ -556,7 +556,7 @@
             "description": "Woolly is a fluffy and grazing Merino Sheep.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/59246969/1/?bust=1671815599&width=720",
             "available_for_adoption": true,
-            "city": "Tavira",
+            "city": "Olhão",
             "health": "Vaccinations up to date",
             "Good in a home with": "Other farm animals"
         },
@@ -570,7 +570,7 @@
             "description": "Nibbles is a tiny and cute Dumbo Mouse.",
             "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/69120805/2/?bust=1696261886&width=720",
             "available_for_adoption": true,
-            "city": "Lagos",
+            "city": "Faro",
             "health": "Vaccinations up to date",
             "Good in a home with": "Other animals, children"
         },
